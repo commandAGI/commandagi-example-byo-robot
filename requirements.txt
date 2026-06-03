@@ -1,0 +1,2 @@
+commandagi>=0.2
+pillow>=9.0
