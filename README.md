@@ -5,7 +5,7 @@ A complete, hardware-free example of **registering your own robot** on
 applies the drive actions it receives. Anyone with the session link — a person in the web UI, an AI
 agent, or another developer's SDK client — can then watch the camera and drive the robot in real time.
 
-This runs a *virtual* rover so you can try it with no hardware. Swap `VirtualRobot` for your real
+This runs a _virtual_ rover so you can try it with no hardware. Swap `VirtualRobot` for your real
 robot — a `camera()` that returns JPEG bytes and an `on_action(action, payload)` that moves it — and
 you've put a physical robot on the platform.
 
